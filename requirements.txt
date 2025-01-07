@@ -1,0 +1,17 @@
+numpy==1.24.3
+opencv-python==4.8.0.76
+matplotlib==3.7.2
+keras==2.10.0
+streamlit==1.20.0
+Pillow==9.5.0
+gtts==2.3.2
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+tensorflow==2.10.0
+tensorboard==2.10.1
+protobuf<3.20
+deep-translator==1.10.1
+pyaudio
+
+
+
