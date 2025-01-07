@@ -56,7 +56,7 @@ def set_background(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-set_background('background/2.jpg')
+set_background('2.jpg')
 
 # Streamlit app title
 st.title("Project :Customized Clone System and Mimicking System")
