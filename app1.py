@@ -28,7 +28,7 @@ def set_background(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Set background (ensure the image file exists in the directory)
-set_background('background/2.jpg')
+set_background('2.jpg')
 
 # Function to generate speech from text using pyttsx3 (this can be replaced by a voice cloning model)
 def generate_speech(text):
